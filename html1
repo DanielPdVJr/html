@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Site HTML</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+</head>
+<body>
+	<header class="cabecalho">
+		<h1 class="logo">
+			<a href="index.html" title="testando">Recomeço</a>
+		</h1>
+			<form method="post">
+				<input type="text" placeholder="Faça uma busca">
+				<button><i class="fas fa-search"></i></button>
+	</header>
+	<nav class="menu">
+		<ul>
+			<li> <a href="#"> Home </a></li>
+			<li><a href="#"> Produtos </a></li>
+			<li><a href="#"> Serviços </a></li>
+			<li><a href="#"> Contatos </a></li>
+		</ul>
+		<div class="social-icons">
+			<a href="#" class="btn-facebook"><i class="fab fa-facebook fa-lg"></i></a>
+			<a href="#" class="btn-twitter"><i class="fab fa-twitter fa-lg"></i></a>
+			<a href="#" class="btn-google"><i class="fab fa-google fa-lg"></i></a>
+		</div>
+	</nav>
+	<main class="principal">
+		<article class="sobre">
+			<h2>Santa Missa</h2>
+			<p>
+				A Missa Católica é a mais perfeita representação do irrevogável ato de salvação do Nosso Senhor Jesus Cristo, Seu sacrifício na Cruz. Cada Missa deve manifestar perfeitamente essa doutrina católica através de suas orações e rituais. A liturgia autêntica deve honrar e glorificar a Deus, expiar os homens de seus pecados, e agradecer a Deus pelas graças que Ele concedeu ao mundo. No Santo Sacrifício, mais do que em qualquer outra manifestação de nosso culto a Deus, tem uma plena realização a palavara de Santo Agostinho: “Colimus Deum precando, colit nos Deus miserando.” Rendemos culto a Deus, rezando, e Deus cuida de nós, comunicando-nos os tesouros de sua misericórdia. Nossas relações para com Deus são expressas pela Oração e pelo Sacrifício; as relações de Deus para conosco são o exercício de sua misericórdia infinita, instruindo-nos e comunicando-se a nós. E onde melhor se realizará esse intercâmbio spiritual do que no Santo Sacrifício da Missa? Nele falamos a Deus e Ele nos fala: nele nos oferecemos a Deus em união com o divino Medianeiro, que é Jesus Cristo, e Ele se une às nossas almas, no Sacramento do amor.
+			</p>
+			<p>
+				<div class="missa">
+					<img src="imagem/Missa-Tridentina-1.jpg" alt="Missa" align=middle></div>
+				<h2>Rito Tridentino</h2>
+
+A Forma Extraordinária do Rito Romano é a liturgia da Igreja Católica em uso antes da reforma do Concílio Vaticano II. Inclui a missa, os sacramentos, vários ritos de bençãos e mais. A Missa é as vezes chamada de Missa “Tridentina” porque “Tridentino” se refere ao Concílio de Trento (1545-1563), que unificou a prática litúrgica na Igreja Ocidental. O Papa São Pio V alcançou esta meta em 1570 quando emitiu a restauração do Missal Romano após o Concilio. A Missa Tridentina foi baseada nas mais antigas e veneráveis fontes litúrgicas Ocidentais. São Pio V decretou na Bula Papal conhecida como Quo Primum que seu único rito de Missa fosse usado por todos na Santa Igreja. No entanto, exceções foram feitas para os ritos que tinham estado em uso contínuo por pelo menos 200 anos. Por que o Latim? O latim continua sendo a língua oficial da Igreja Católica Romana e tem sido usado como a língua litúrgica no Ocidente desde o século III. A natureza imutável do latim tem conservado a doutrina ortodoxa da Missa, que nos foi herdada dos pais da Santa Igreja. O uso do latim na Missa e em documentos oficiais da Igreja tem sido fundamental em apoiar a universalidade e unidade da Igreja. O papa Bento XVI indicou o uso de latim e o canto Gregoriano na liturgia na sua Exortação Papal de 2007 sobre a Eucaristia Sacramentum Caritatis. Embora a Missa Tradicional seja dita ou cantada em latim, a maioria dos fiéis que participam na liturgia usam seus próprios livros de oração (missais), que contém o texto em latim acompanhado por sua tradução no vernáculo. As regras que explicam como tal participação deve ocorrer estão na encíclica Mediador Dei do Papa São Pio XII, par. 106.
+
+O que esperar da Missa Tradicional?
+
+A princípio, a formalidade e o elaborado rito da Missa Tradicional pode nos parecer um pouco desconhecido. Há uma atmosfera de oração e reverência entre as pessoas nos bancos. Antes da Missa, o silêncio é mantido na igreja demonstrando o respeito à Presença Real de Jesus no Santíssimo Sacramento, que é reservado no tabernáculo no centro do altar. Para criar um espaço sagrado, o altar é separado do corpo principal da igreja por uma barra, que indica o local aonde os fiéis se ajoelham para receberem a comunhão, somente na língua. O crucifixo acima do altar relembra o fiel que o Sacrifício da Cruz e o Sacrifício da Missa são os mesmos. As seis velas acesas no altar simbolizam Cristo como a luz do mundo. O sacerdote e a congregação juntos ficam de frente para o tabernáculo e o altar aonde o Sacrifício Sagrado é oferecido. O altar normalmente é colocado na direção oriental da igreja, na direção do sol nascente, simbolizando Cristo Ressuscitado. A comunhão é dada sob uma única espécie, com as palavras "o Corpo de Nosso Senhor Jesus Cristo guarde tua alma para a vida eterna. Amém." O sacerdote diz a oração completa. Há duas formas principais de Missa, Solene (cantada), e rezada. Uma Missa rezada é uma que é simplesmente recitada pelo sacerdote; é menos cerimonial que uma Missa solene. Uma Missa solene é cantada usando várias formas do canto Gregoriano ou polifônico. E o incenso é usado somente na Missa solene.</p>
+
+			<p class="tridentina">
+				
+				<h2>Acólito</h2>
+				Acolitar a Missa é um grande privilégio, que deve ser exercido com diligência, exatidão, respeito e devoção; afinal, trata-se de auxiliar o sacerdote que age in persona Christi. Este manual foi escrito para que esse serviço seja esclarecido, explicado em detalhes e exercido nas condições apropriadas.
+Seu objetivo, portanto, é enfatizar a riqueza e abrir o significado da liturgia na Forma Extraordinária do rito romano demonstrando, através de esquemas, ilustrações e um formato prático, os detalhes a serem observados pelos acólitos.
+				<aside class="acolitos">
+			<h2> Acólitos</h2>
+			<ul>
+				<li>José Henrique</li>
+				<li>Tallysson Bruno</li>
+				<li>Gabriel de Paula</li>
+				<li>Vinicius</li>
+				<li>Breno Wallace</li>
+				<li>João Paulo</li>
+				<li>Itamar</li>
+				<li>Mateus</li>
+				<li>Kaio</li>
+				<li>Daniel</li>
+			</ul>
+		</aside>
+				<div>			
+				<img src="imagem/Acolitos.jpg">
+				<img src="imagem/acol2.jpg">
+				</div>
+			</p>
+		</article>
+		<article class="capela">
+			<h2>Capela São José</h2>
+				<p>
+					Nome Atribuído:Igreja do antigo Seminário dos Padres Redentoristas
+Localização:Av. Padre Wendel qd. XI, lts. 8, 9, 25 e 26 , nº 603 – Setor Aeroviário – Goiânia-GO
+Resolução de Tombamento: Despacho nº 1.096, de 1982 (Processo CEC 302/81) e Decreto nº 4.943, de 1998(Processo 16204654)
+Descrição: Fundada em 1901, fazia parte do antigo convento dos Redontistas, que depois veio a se tornar o Seminário São José. É considerada a mais antiga igreja de Goiânia, mas, na verdade, ela foi construída muito antes da constução da nova Capital. Com o fim do Convento e do seminário, a área foi loteada, dando origem ao setor São José.
+Na década de 1980, a antiga capelinha ficou pequena para o grande número de moradores. Em 1990, foi construída a atual Capela São José, todavia, a antiga capelinha continua sendo usada pela comunidade para pequenas celebrações e encontros de pequenos grupos e reuniões pastorais. 
+				</p>
+				<img src="imagem/SJ-capela.jpg">
+	</article>
+	</main>
+	<section class="newsletter">
+		<h2>Onde Estamos</h2>
+			<p> Av. Padre Wendel Qd 15, Lote 27, 603 - Aeroviario, Goiânia - GO, 74435-115</p>
+		<form method="post">
+			<input type="text" placeholder="Seu Nome">
+			<input type="email" placeholder="Seu e-mail">
+			<button>Cadastrar</button>
+		</form>
+	</section>
+	<footer class="rodapé">
+		<p> Eres factus est</p>
+	</footer>
+</body>
+</html>
